@@ -6,7 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Salim-D/Salim-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salim-D&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim-D&theme=dark" alt="GitHub Streak" width="50.5%">
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Salim-D&theme=merko"/>
+</div>
+
