@@ -46,7 +46,7 @@
   Cleveland State University (Graduating Dec 2024)  
   - Relevant coursework: Systems Analysis & Design, Cybersecurity, Project Management, Emerging Tech Info Systems.
 
-- **Bachelor of Arts in Health Care Management**  
+- **Bachelor of Technology in Health Care Management**  
   SUNY Canton, College of Technology (Aug 2004 - May 2009)
 
 ---
