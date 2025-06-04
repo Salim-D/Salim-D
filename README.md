@@ -43,11 +43,11 @@
 
 ### 📚 Education
 - **Master of Information Systems (MIS)**  
-  Cleveland State University (Graduating Dec 2024)  
+  Cleveland State University (Graduated Dec 2024)  
   - Relevant coursework: Systems Analysis & Design, Cybersecurity, Project Management, Emerging Tech Info Systems.
 
 - **Bachelor of Technology in Health Care Management**  
-  SUNY Canton, College of Technology (Aug 2004 - May 2009)
+  SUNY Canton, College of Technology (Graduated May 2009)
 
 ---
 
